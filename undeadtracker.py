@@ -63,6 +63,10 @@ def commander():
     else:
         print("as you wish")
 
+#what do i even want to do?
+#create a specified number of undead
+#track health
+#roll saves, attacks and damage
 
 class undead:
     def initzom(zhorde):
@@ -73,7 +77,7 @@ class undead:
             looper +=1
 
     def initskel(shorde):
-        print("skeleton not done comback later")
+        print("skeleton not done comeback later")
 
     def init():
         print("how many Zombies?")
